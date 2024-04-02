@@ -3,3 +3,6 @@
 # source: https://docs.microsoft.com/en-us/office365/enterprise/urls-and-ip-address-ranges
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.com
