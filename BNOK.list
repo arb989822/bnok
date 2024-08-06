@@ -13,3 +13,5 @@ DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,htx.com.se
 DOMAIN-SUFFIX,htx.com
+DOMAIN-SUFFIX,solana.com
+DOMAIN-SUFFIX,*.solana.com
