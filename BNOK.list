@@ -15,3 +15,6 @@ DOMAIN-SUFFIX,htx.com.se
 DOMAIN-SUFFIX,htx.com
 DOMAIN-SUFFIX,solana.com
 DOMAIN-SUFFIX,*.solana.com
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,*.huggingface.co
+DOMAIN-SUFFIX,flock.io
