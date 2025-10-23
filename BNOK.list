@@ -19,3 +19,5 @@ DOMAIN-SUFFIX,*.solana.com
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,*.huggingface.co
 DOMAIN-SUFFIX,flock.io
+DOMAIN-SUFFIX,*.buidlpad.com
+DOMAIN-SUFFIX,*.mmt.finance
