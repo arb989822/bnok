@@ -21,3 +21,7 @@ DOMAIN-SUFFIX,*.huggingface.co
 DOMAIN-SUFFIX,flock.io
 DOMAIN-SUFFIX,*.buidlpad.com
 DOMAIN-SUFFIX,*.mmt.finance
+DOMAIN-SUFFIX,*.cloudflare-cn.com
+DOMAIN-SUFFIX,*.cloudflare.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare-cn.com
