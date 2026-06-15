@@ -15,14 +15,12 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare-cn.com
 DOMAIN-SUFFIX,mmt.finance
 DOMAIN-SUFFIX,faster100x.com
-
 DOMAIN-SUFFIX,oikos.com.tw
 DOMAIN-SUFFIX,oiktv.com
 DOMAIN-SUFFIX,oizoblog.com
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okayfreedom.com
 DOMAIN-SUFFIX,okk.tw
-
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,interactivebrokers.com.hk
 DOMAIN-SUFFIX,interactivebrokers.com.sg
@@ -37,7 +35,6 @@ DOMAIN,cdc1.ibllc.com
 DOMAIN,zdc1.ibllc.com
 DOMAIN,hdc1.ibllc.com
 DOMAIN,mcgw1.ibllc.com.cn
-
 DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,futuhk.com
 DOMAIN-SUFFIX,futu5.com
@@ -49,14 +46,6 @@ DOMAIN-SUFFIX,moomoo.com.au
 DOMAIN-SUFFIX,moomoo.com.my
 DOMAIN-SUFFIX,moomoo.com.jp
 DOMAIN,openapi.futunn.com
-# NAME: Broker
-# AUTHOR: MsMc
-# REPO: https://github.com/Allen2023/broker-rules
-# UPDATED: 2026-06-13
-# DOMAIN-SUFFIX: 68
-# DOMAIN: 18
-# IP-CIDR: 63
-# TOTAL: 149
 DOMAIN-SUFFIX,futuhk.com
 DOMAIN-SUFFIX,futu.link
 DOMAIN-SUFFIX,futunn.com
